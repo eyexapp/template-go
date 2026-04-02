@@ -1,0 +1,14 @@
+.git
+.github
+.vscode
+.env
+.env.*
+.air.toml
+.editorconfig
+.gitignore
+.golangci.yml
+*.md
+Makefile
+tmp/
+bin/
+coverage.*
